@@ -1,4 +1,4 @@
-# Computer Networks
+# Computer Networks in Python
 
 Python introduction to Computer Networks @ University of Messina
 
