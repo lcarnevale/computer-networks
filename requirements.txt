@@ -1,0 +1,4 @@
+aiosmtpd==1.4.2
+atpublic==2.3
+attrs==21.2.0
+pyftpdlib==1.5.6
