@@ -35,4 +35,6 @@ pip install -r requirements.txt
 
 ## References
 - [Bottle: Python Web Framework](https://bottlepy.org/docs/dev/index.html)
+- [Requests: HTTP for Humans](https://docs.python-requests.org/en/latest/)
+- [cURL](https://curl.se/)
 - [List of HTTP Status Code](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
