@@ -1,0 +1,3 @@
+[submodule "http-examples"]
+	path = http-examples
+	url = https://github.com/lcarnevale/http-examples
