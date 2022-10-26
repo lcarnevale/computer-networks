@@ -1,3 +1,6 @@
 [submodule "http-examples"]
 	path = http-examples
 	url = https://github.com/lcarnevale/http-examples
+[submodule "smtp-example"]
+	path = smtp-example
+	url = https://github.com/lcarnevale/smtp-example.git
