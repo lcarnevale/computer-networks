@@ -7,3 +7,6 @@
 [submodule "tcp-example"]
 	path = tcp-example
 	url = https://github.com/lcarnevale/tcp-example
+[submodule "udp-example"]
+	path = udp-example
+	url = https://github.com/lcarnevale/udp-example
