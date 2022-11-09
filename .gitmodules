@@ -4,3 +4,6 @@
 [submodule "smtp-example"]
 	path = smtp-example
 	url = https://github.com/lcarnevale/smtp-example.git
+[submodule "tcp-example"]
+	path = tcp-example
+	url = https://github.com/lcarnevale/tcp-example
