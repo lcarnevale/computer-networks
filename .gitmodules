@@ -10,3 +10,6 @@
 [submodule "udp-example"]
 	path = udp-example
 	url = https://github.com/lcarnevale/udp-example
+[submodule "p2p-examples"]
+	path = p2p-examples
+	url = https://github.com/lcarnevale/p2p-examples.git
